@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FIRST APP SSD</string>
+    <string name="app_name2">Calculadora</string>
+    <string name="app_ingresoEntero">Ingrese un entero</string>
+    <string name="app_ingresoEntero2">Ingrese otro entero</string>
+    <string name="app_caclular">Calcular</string>
+
+</resources>
